@@ -12,3 +12,11 @@ body {
     border-radius: 40%;
     color: yellowgreen;
 }
+
+.cauntrys {
+    list-style: none;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(102, 255, 0);
+}
